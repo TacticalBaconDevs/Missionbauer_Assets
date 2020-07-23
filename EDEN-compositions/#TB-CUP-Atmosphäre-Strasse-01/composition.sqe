@@ -1,0 +1,2379 @@
+version=53;
+center[]={9400.1797,118.80007,15901.618};
+class items
+{
+	items=52;
+	class Item0
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-11.535156,0.51509857,-4.5898438};
+			angles[]={0.023993526,0,6.272521};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=0;
+		type="Land_Garbage_square5_F";
+	};
+	class Item1
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-5.7734375,0.38650513,-0.85449219};
+			angles[]={0.025327841,0,6.2778478};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=1;
+		type="Land_Garbage_square5_F";
+		atlOffset=2.2888184e-005;
+	};
+	class Item2
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-0.80859375,0.3743515,-1.3486328};
+			angles[]={0.018663859,0,6.2778478};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=2;
+		type="Land_Garbage_square5_F";
+		atlOffset=2.2888184e-005;
+	};
+	class Item3
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={1.3076172,0.2949295,2.2294922};
+			angles[]={0.022662206,0,6.2738504};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=3;
+		type="Land_Garbage_square5_F";
+		atlOffset=3.0517578e-005;
+	};
+	class Item4
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-2.34375,0.35015106,2.0136719};
+			angles[]={0.018663859,5.9647617,6.2778478};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=4;
+		type="Land_GarbageHeap_02_F";
+	};
+	class Item5
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-7.3486328,1.5315857,-0.40527344};
+			angles[]={0.025324726,1.0084686,6.2778444};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=5;
+		type="Land_Wreck_Ural_F";
+	};
+	class Item6
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={1.8876953,1.1301956,0.59863281};
+			angles[]={0.018657569,0,6.2778444};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=6;
+		type="Land_Wreck_UAZ_F";
+		atlOffset=-7.6293945e-006;
+	};
+	class Item7
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={2.8417969,0.31437683,2.1914063};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=9;
+		type="Land_Puddle_02_F";
+		atlOffset=7.6293945e-006;
+	};
+	class Item8
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-8.1162109,0.40496826,-2.5078125};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=10;
+		type="Land_DirtPatch_01_4x4_F";
+	};
+	class Item9
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-9.5556641,0.44178772,-3.7802734};
+			angles[]={0,4.2408447,0};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+		};
+		id=11;
+		type="Land_RoadCrack_01_6x2_F";
+	};
+	class Item10
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-4.2353516,0.35710907,-1.5751953};
+			angles[]={0.025324726,0,6.2778444};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=12;
+		type="Crater";
+	};
+	class Item11
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-0.69140625,0.28842926,1.1074219};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=13;
+		type="Land_DirtPatch_01_4x4_F";
+	};
+	class Item12
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-7.5439453,0.4544754,-4.3085938};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=14;
+		type="Land_Puddle_01_F";
+		atlOffset=-7.6293945e-006;
+	};
+	class Item13
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={1.7001953,0.360672,0.036132813};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=15;
+		type="Land_RoadCrack_01_4x4_F";
+		atlOffset=0.065002441;
+	};
+	class Item14
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={2.3574219,0.37039948,-0.671875};
+			angles[]={0.018657569,0,6.2778444};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=16;
+		type="Oil_Spill_F";
+		atlOffset=1.5258789e-005;
+	};
+	class Item15
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-5.1777344,0.48906708,-4.1992188};
+			angles[]={0.029321531,1.2166166,6.2778621};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=17;
+		type="Land_Garbage_line_F";
+		atlOffset=-7.6293945e-006;
+	};
+	class Item16
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={3.5898438,0.76840973,1.9130859};
+			angles[]={0.022654373,1.3861928,6.2738476};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=18;
+		type="Land_GarbageHeap_03_F";
+		atlOffset=-7.6293945e-006;
+	};
+	class Item17
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={3.7431641,0.3193512,0.69921875};
+			angles[]={0.022654373,0,6.2738476};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=19;
+		type="Land_Garbage_square3_F";
+	};
+	class Item18
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={0.76171875,0.23538208,3.3408203};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=20;
+		type="Land_RoadCrack_01_4x4_F";
+		atlOffset=7.6293945e-006;
+	};
+	class Item19
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={3.4824219,0.29734039,-0.5625};
+			angles[]={0.018657569,0,6.2778444};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=21;
+		type="Oil_Spill_F";
+	};
+	class Item20
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-0.36816406,0.78179169,-2.2841797};
+			angles[]={0.031991884,0,6.2778444};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=22;
+		type="MetalBarrel_burning_F";
+		atlOffset=-7.6293945e-006;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="Enh_featureType";
+				expression="_this setFeatureType parseNumber (_value)";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="0";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+	class Item21
+	{
+		dataType="Logic";
+		class PositionInfo
+		{
+			position[]={-0.36328125,0.9041748,-2.3017578};
+		};
+		id=23;
+		type="ModuleEffectsFire_F";
+		atlOffset=0.5447464;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="ModuleEffectsFire_F_ColorBlue";
+				expression="_this setVariable ['ColorBlue',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute1
+			{
+				property="ModuleEffectsFire_F_ParticleDensity";
+				expression="_this setVariable ['ParticleDensity',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=9;
+					};
+				};
+			};
+			class Attribute2
+			{
+				property="ModuleEffectsFire_F_ParticleLifeTime";
+				expression="_this setVariable ['ParticleLifeTime',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.5;
+					};
+				};
+			};
+			class Attribute3
+			{
+				property="ModuleEffectsFire_F_FireDamage";
+				expression="_this setVariable ['FireDamage',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute4
+			{
+				property="ModuleEffectsFire_F_Timeout";
+				expression="_this setVariable ['Timeout',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute5
+			{
+				property="ModuleEffectsFire_F_ColorGreen";
+				expression="_this setVariable ['ColorGreen',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute6
+			{
+				property="ModuleEffectsFire_F_ColorRed";
+				expression="_this setVariable ['ColorRed',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute7
+			{
+				property="ModuleEffectsFire_F_ParticleOrientation";
+				expression="_this setVariable ['ParticleOrientation',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute8
+			{
+				property="ModuleEffectsFire_F_EffectSize";
+				expression="_this setVariable ['EffectSize',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.2;
+					};
+				};
+			};
+			class Attribute9
+			{
+				property="ModuleEffectsFire_F_ParticleSize";
+				expression="_this setVariable ['ParticleSize',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.5;
+					};
+				};
+			};
+			class Attribute10
+			{
+				property="ModuleEffectsFire_F_ParticleSpeed";
+				expression="_this setVariable ['ParticleSpeed',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			nAttributes=11;
+		};
+	};
+	class Item22
+	{
+		dataType="Logic";
+		class PositionInfo
+		{
+			position[]={2.9560547,0.30820465,-0.99511719};
+			angles[]={0.018663859,0,6.2778478};
+		};
+		id=24;
+		type="ModuleEffectsFire_F";
+		atlOffset=-7.6293945e-006;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="ModuleEffectsFire_F_ColorBlue";
+				expression="_this setVariable ['ColorBlue',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute1
+			{
+				property="ModuleEffectsFire_F_ParticleDensity";
+				expression="_this setVariable ['ParticleDensity',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=25;
+					};
+				};
+			};
+			class Attribute2
+			{
+				property="ModuleEffectsFire_F_ParticleLifeTime";
+				expression="_this setVariable ['ParticleLifeTime',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.60000002;
+					};
+				};
+			};
+			class Attribute3
+			{
+				property="ModuleEffectsFire_F_FireDamage";
+				expression="_this setVariable ['FireDamage',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute4
+			{
+				property="ModuleEffectsFire_F_Timeout";
+				expression="_this setVariable ['Timeout',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute5
+			{
+				property="ModuleEffectsFire_F_ColorGreen";
+				expression="_this setVariable ['ColorGreen',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute6
+			{
+				property="ModuleEffectsFire_F_ColorRed";
+				expression="_this setVariable ['ColorRed',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute7
+			{
+				property="ModuleEffectsFire_F_ParticleOrientation";
+				expression="_this setVariable ['ParticleOrientation',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute8
+			{
+				property="ModuleEffectsFire_F_EffectSize";
+				expression="_this setVariable ['EffectSize',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute9
+			{
+				property="ModuleEffectsFire_F_ParticleSize";
+				expression="_this setVariable ['ParticleSize',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute10
+			{
+				property="ModuleEffectsFire_F_ParticleSpeed";
+				expression="_this setVariable ['ParticleSpeed',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			nAttributes=11;
+		};
+	};
+	class Item23
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-12.405273,0.85966492,-2.5859375};
+			angles[]={0.023998277,0,6.2725215};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=25;
+		type="MetalBarrel_burning_F";
+		atlOffset=-7.6293945e-006;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="Enh_featureType";
+				expression="_this setFeatureType parseNumber (_value)";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="0";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+	class Item24
+	{
+		dataType="Logic";
+		class PositionInfo
+		{
+			position[]={-12.400391,0.98199463,-2.6035156};
+		};
+		id=26;
+		type="ModuleEffectsFire_F";
+		atlOffset=0.54473877;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="ModuleEffectsFire_F_ColorBlue";
+				expression="_this setVariable ['ColorBlue',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute1
+			{
+				property="ModuleEffectsFire_F_ParticleDensity";
+				expression="_this setVariable ['ParticleDensity',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=9;
+					};
+				};
+			};
+			class Attribute2
+			{
+				property="ModuleEffectsFire_F_ParticleLifeTime";
+				expression="_this setVariable ['ParticleLifeTime',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.5;
+					};
+				};
+			};
+			class Attribute3
+			{
+				property="ModuleEffectsFire_F_FireDamage";
+				expression="_this setVariable ['FireDamage',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute4
+			{
+				property="ModuleEffectsFire_F_Timeout";
+				expression="_this setVariable ['Timeout',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute5
+			{
+				property="ModuleEffectsFire_F_ColorGreen";
+				expression="_this setVariable ['ColorGreen',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute6
+			{
+				property="ModuleEffectsFire_F_ColorRed";
+				expression="_this setVariable ['ColorRed',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute7
+			{
+				property="ModuleEffectsFire_F_ParticleOrientation";
+				expression="_this setVariable ['ParticleOrientation',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute8
+			{
+				property="ModuleEffectsFire_F_EffectSize";
+				expression="_this setVariable ['EffectSize',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.2;
+					};
+				};
+			};
+			class Attribute9
+			{
+				property="ModuleEffectsFire_F_ParticleSize";
+				expression="_this setVariable ['ParticleSize',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.5;
+					};
+				};
+			};
+			class Attribute10
+			{
+				property="ModuleEffectsFire_F_ParticleSpeed";
+				expression="_this setVariable ['ParticleSpeed',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			nAttributes=11;
+		};
+	};
+	class Item25
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-3.3203125,1.2559052,2.7128906};
+			angles[]={0.35084608,0.9701587,5.8162923};
+		};
+		side="Empty";
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=29;
+		type="Land_Plank_01_4m_F";
+		atlOffset=0.94398499;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="Enh_featureType";
+				expression="_this setFeatureType parseNumber (_value)";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="0";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+	class Item26
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-11.605469,1.8342361,-6.7246094};
+			angles[]={0.023998277,1.8434342,6.2725215};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			createAsSimpleObject=1;
+			dynamicSimulation=1;
+		};
+		id=31;
+		type="Land_ConcretePipe_F";
+		atlOffset=-8.392334e-005;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="Enh_featureType";
+				expression="_this setFeatureType parseNumber (_value)";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="0";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+	class Item27
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-15.577148,1.8517609,-6.9550781};
+			angles[]={0.014664836,1.1461654,6.2818484};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			createAsSimpleObject=1;
+			dynamicSimulation=1;
+		};
+		id=32;
+		type="Land_ConcretePipe_F";
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="Enh_featureType";
+				expression="_this setFeatureType parseNumber (_value)";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="0";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+	class Item28
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-14.898438,0.52191925,-5.4160156};
+			angles[]={0.014664836,1.0364894,6.2818484};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=34;
+		type="Land_DirtPatch_02_F";
+	};
+	class Item29
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-9.3232422,0.54917145,-6.6103516};
+			angles[]={0.023993526,0,0};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=35;
+		type="Land_Garbage_square5_F";
+		atlOffset=7.6293945e-006;
+	};
+	class Item30
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-16.151367,0.62815857,-9.1318359};
+			angles[]={0.0093286335,1.4293438,6.2818484};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=36;
+		type="Land_Garbage_line_F";
+	};
+	class Item31
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={-16.900391,1.004837,-9.46875};
+			angles[]={0.0093286335,0,6.2818484};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+		};
+		id=38;
+		type="MetalBarrel_burning_F";
+	};
+	class Item32
+	{
+		dataType="Logic";
+		class PositionInfo
+		{
+			position[]={-16.895508,1.1270599,-9.4863281};
+		};
+		id=39;
+		type="ModuleEffectsFire_F";
+		atlOffset=0.5447464;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="ModuleEffectsFire_F_ColorBlue";
+				expression="_this setVariable ['ColorBlue',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute1
+			{
+				property="ModuleEffectsFire_F_ParticleDensity";
+				expression="_this setVariable ['ParticleDensity',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=9;
+					};
+				};
+			};
+			class Attribute2
+			{
+				property="ModuleEffectsFire_F_ParticleLifeTime";
+				expression="_this setVariable ['ParticleLifeTime',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.5;
+					};
+				};
+			};
+			class Attribute3
+			{
+				property="ModuleEffectsFire_F_FireDamage";
+				expression="_this setVariable ['FireDamage',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute4
+			{
+				property="ModuleEffectsFire_F_Timeout";
+				expression="_this setVariable ['Timeout',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute5
+			{
+				property="ModuleEffectsFire_F_ColorGreen";
+				expression="_this setVariable ['ColorGreen',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute6
+			{
+				property="ModuleEffectsFire_F_ColorRed";
+				expression="_this setVariable ['ColorRed',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute7
+			{
+				property="ModuleEffectsFire_F_ParticleOrientation";
+				expression="_this setVariable ['ParticleOrientation',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute8
+			{
+				property="ModuleEffectsFire_F_EffectSize";
+				expression="_this setVariable ['EffectSize',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.2;
+					};
+				};
+			};
+			class Attribute9
+			{
+				property="ModuleEffectsFire_F_ParticleSize";
+				expression="_this setVariable ['ParticleSize',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.5;
+					};
+				};
+			};
+			class Attribute10
+			{
+				property="ModuleEffectsFire_F_ParticleSpeed";
+				expression="_this setVariable ['ParticleSpeed',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			nAttributes=11;
+		};
+	};
+	class Item33
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={4.1328125,0.60274506,4.3984375};
+			angles[]={0.022654373,0,6.2738476};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=40;
+		type="MetalBarrel_burning_F";
+		atlOffset=-1.5258789e-005;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="Enh_featureType";
+				expression="_this setFeatureType parseNumber (_value)";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="0";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+	class Item34
+	{
+		dataType="Logic";
+		class PositionInfo
+		{
+			position[]={4.1376953,0.72502899,4.3808594};
+		};
+		id=41;
+		type="ModuleEffectsFire_F";
+		atlOffset=0.5447464;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="ModuleEffectsFire_F_ColorBlue";
+				expression="_this setVariable ['ColorBlue',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute1
+			{
+				property="ModuleEffectsFire_F_ParticleDensity";
+				expression="_this setVariable ['ParticleDensity',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=9;
+					};
+				};
+			};
+			class Attribute2
+			{
+				property="ModuleEffectsFire_F_ParticleLifeTime";
+				expression="_this setVariable ['ParticleLifeTime',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.5;
+					};
+				};
+			};
+			class Attribute3
+			{
+				property="ModuleEffectsFire_F_FireDamage";
+				expression="_this setVariable ['FireDamage',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute4
+			{
+				property="ModuleEffectsFire_F_Timeout";
+				expression="_this setVariable ['Timeout',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute5
+			{
+				property="ModuleEffectsFire_F_ColorGreen";
+				expression="_this setVariable ['ColorGreen',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute6
+			{
+				property="ModuleEffectsFire_F_ColorRed";
+				expression="_this setVariable ['ColorRed',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute7
+			{
+				property="ModuleEffectsFire_F_ParticleOrientation";
+				expression="_this setVariable ['ParticleOrientation',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute8
+			{
+				property="ModuleEffectsFire_F_EffectSize";
+				expression="_this setVariable ['EffectSize',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.2;
+					};
+				};
+			};
+			class Attribute9
+			{
+				property="ModuleEffectsFire_F_ParticleSize";
+				expression="_this setVariable ['ParticleSize',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.5;
+					};
+				};
+			};
+			class Attribute10
+			{
+				property="ModuleEffectsFire_F_ParticleSpeed";
+				expression="_this setVariable ['ParticleSpeed',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			nAttributes=11;
+		};
+	};
+	class Item35
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={9.3291016,0.63470459,2.7265625};
+			angles[]={0.022662206,0.93678236,6.2778587};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=42;
+		type="MetalBarrel_burning_F";
+		atlOffset=0.02633667;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="Enh_featureType";
+				expression="_this setFeatureType parseNumber (_value)";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="0";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+	class Item36
+	{
+		dataType="Logic";
+		class PositionInfo
+		{
+			position[]={9.3291016,0.75705719,2.7080078};
+			angles[]={0,0.93681967,0};
+		};
+		id=43;
+		type="ModuleEffectsFire_F";
+		atlOffset=0.57102966;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="ModuleEffectsFire_F_ColorBlue";
+				expression="_this setVariable ['ColorBlue',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute1
+			{
+				property="ModuleEffectsFire_F_ParticleDensity";
+				expression="_this setVariable ['ParticleDensity',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=9;
+					};
+				};
+			};
+			class Attribute2
+			{
+				property="ModuleEffectsFire_F_ParticleLifeTime";
+				expression="_this setVariable ['ParticleLifeTime',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.5;
+					};
+				};
+			};
+			class Attribute3
+			{
+				property="ModuleEffectsFire_F_FireDamage";
+				expression="_this setVariable ['FireDamage',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute4
+			{
+				property="ModuleEffectsFire_F_Timeout";
+				expression="_this setVariable ['Timeout',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute5
+			{
+				property="ModuleEffectsFire_F_ColorGreen";
+				expression="_this setVariable ['ColorGreen',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute6
+			{
+				property="ModuleEffectsFire_F_ColorRed";
+				expression="_this setVariable ['ColorRed',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			class Attribute7
+			{
+				property="ModuleEffectsFire_F_ParticleOrientation";
+				expression="_this setVariable ['ParticleOrientation',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0;
+					};
+				};
+			};
+			class Attribute8
+			{
+				property="ModuleEffectsFire_F_EffectSize";
+				expression="_this setVariable ['EffectSize',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.2;
+					};
+				};
+			};
+			class Attribute9
+			{
+				property="ModuleEffectsFire_F_ParticleSize";
+				expression="_this setVariable ['ParticleSize',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=0.5;
+					};
+				};
+			};
+			class Attribute10
+			{
+				property="ModuleEffectsFire_F_ParticleSpeed";
+				expression="_this setVariable ['ParticleSpeed',_value,true];";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"SCALAR"
+							};
+						};
+						value=1;
+					};
+				};
+			};
+			nAttributes=11;
+		};
+	};
+	class Item37
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={8.5380859,2.0765991,1.671875};
+			angles[]={1.5707965,1.5481421,0.57626414};
+		};
+		side="Empty";
+		class Attributes
+		{
+			createAsSimpleObject=1;
+			dynamicSimulation=1;
+		};
+		id=44;
+		type="Land_Coil_F";
+		atlOffset=0.78515625;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="Enh_featureType";
+				expression="_this setFeatureType parseNumber (_value)";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="0";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+	class Item38
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={11.087891,0.71839142,1.3818359};
+			angles[]={0.02399601,2.5740125,6.2765174};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=47;
+		type="Land_GarbageHeap_04_F";
+	};
+	class Item39
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={10.342773,0.1934967,2.1152344};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=48;
+		type="Land_RoadCrack_01_4x4_F";
+	};
+	class Item40
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={10.740234,0.096374512,6.1347656};
+			angles[]={0.015998369,0,6.2765174};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=49;
+		type="Crater";
+		atlOffset=-7.6293945e-006;
+	};
+	class Item41
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={13.106445,0.16771698,2.3339844};
+			angles[]={0,2.3599505,0};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=50;
+		type="Land_Puddle_02_F";
+		atlOffset=7.6293945e-006;
+	};
+	class Item42
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={5.265625,0.24932861,2.6894531};
+			angles[]={0.022662206,0,6.2778587};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=51;
+		type="Land_Garbage_square5_F";
+	};
+	class Item43
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={15.209961,0.11071777,5.8525391};
+			angles[]={0.021328852,0,6.2765174};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=52;
+		type="Land_Garbage_square5_F";
+	};
+	class Item44
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={8.5634766,0.39096069,3.2753906};
+			angles[]={0.023998277,0,6.2765183};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=53;
+		type="Land_PaperBox_01_small_ransacked_brown_F";
+		atlOffset=7.6293945e-006;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="Enh_featureType";
+				expression="_this setFeatureType parseNumber (_value)";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="0";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+	class Item45
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={6.3779297,0.19607544,3.0380859};
+			angles[]={0.022662206,0,6.2778587};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=54;
+		type="Land_DirtPatch_04_F";
+	};
+	class Item46
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={14.71582,0,8.0146484};
+			angles[]={0,4.2408447,0};
+		};
+		side="Empty";
+		flags=5;
+		class Attributes
+		{
+		};
+		id=55;
+		type="Land_RoadCrack_01_6x2_F";
+	};
+	class Item47
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={11.571289,0.2069931,2.8535156};
+			angles[]={0.02399601,0,6.2765174};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=56;
+		type="Land_Garbage_square5_F";
+	};
+	class Item48
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={6.8203125,0.44038391,6.1640625};
+			angles[]={0.016004669,0,6.2765183};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=57;
+		type="Land_Pallets_F";
+	};
+	class Item49
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={4.4492188,0.43727875,5.2714844};
+			angles[]={4.712389,4.6897354,5.2314692};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=58;
+		type="Land_MetalBarrel_empty_F";
+		atlOffset=-0.14272308;
+		class CustomAttributes
+		{
+			class Attribute0
+			{
+				property="Enh_featureType";
+				expression="_this setFeatureType parseNumber (_value)";
+				class Value
+				{
+					class data
+					{
+						class type
+						{
+							type[]=
+							{
+								"STRING"
+							};
+						};
+						value="0";
+					};
+				};
+			};
+			nAttributes=1;
+		};
+	};
+	class Item50
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={5.1835938,0.15214539,5.2558594};
+			angles[]={0.022654373,0,6.2778621};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=59;
+		type="Oil_Spill_F";
+	};
+	class Item51
+	{
+		dataType="Object";
+		class PositionInfo
+		{
+			position[]={9.8134766,0.19168854,2.3378906};
+			angles[]={0.023998277,0,6.2765183};
+		};
+		side="Empty";
+		flags=4;
+		class Attributes
+		{
+			dynamicSimulation=1;
+		};
+		id=60;
+		type="Oil_Spill_F";
+		atlOffset=7.6293945e-006;
+	};
+};
